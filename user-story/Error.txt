@@ -1,0 +1,11 @@
+** This is the instruction for you if error was caught!!
+
+** Please read it carefully and  follow the instruction: (access the directory path: './User-story/user-story')
+	
+	# Please check that you see the error message in file result.log, choose one of two options below to get more information:
+		
+	-- Option 1: Open Command Promt and change the directory to E:/User-story/user-story (contains 'getFile.py'). Then using command to execute 	this file by "python getFile.py" and the file named CompanyFile.csv will be downloaded into the current directory.
+
+	-- Option 2: Open folder and access to that directory above and Open getFile.py by your IDE and run it. The file will be downloaded.
+
+	# Then you open the file downloaded to check the data inside and put it into database manually.
