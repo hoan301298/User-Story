@@ -2,7 +2,7 @@
 # User-Story
 
 Using Python paramiko to access SSH server and check file existed or not. Set timer to run and check everyday and also clear it.
-
+Check the file Error.txt to get more information and the file result.log for the result.
 
 
 ## Execute
