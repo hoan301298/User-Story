@@ -2,10 +2,36 @@
 
 ** Please read it carefully and  follow the instruction: (access the directory path: './User-story/user-story')
 	
-	# Please check that you see the error message in file result.log, choose one of two options below to get more information:
+1. Please check that you see the error message in file result.log, choose one of two options below to get more information:
 		
-	-- Option 1: Open Command Promt and change the directory to E:/User-story/user-story (contains 'getFile.py'). Then using command to execute 	this file by "python getFile.py" and the file named CompanyFile.csv will be downloaded into the current directory.
+-- Option 1: Open Command Promt and change the directory to E:/User-story/user-story (contains 'getFile.py'). Then using command to execute this file by "python getFile.py" and the file named CompanyFile.csv will be downloaded into the current directory.
 
-	-- Option 2: Open folder and access to that directory above and Open getFile.py by your IDE and run it. The file will be downloaded.
+-- Option 2: Open folder and access to that directory above and Open getFile.py by your IDE and run it. The file will be downloaded.
 
-	# Then you open the file downloaded to check the data inside and put it into database manually.
+2. Then you open the file downloaded to check the data inside (if the data existed, then put it into database manually). Ready to finish the next section for reporting your assessment.
+
+*******************************************************
+
+** After checking file, please take note all the information you get about this error and follow step by step below:
+
+1. Please inform what you find to DevOps manager immediately.
+
+2. Prepare a short report of the situation you are struggling.
+
+3. Specify the target: the company/customer, stakeholder and DevOps team to send this report and inform them as soon as possible.
+
+4. For the reason section, it should include the details about the date and time when it occurs and when you finish technical process. What is the problem with the file you checked?
+
+5. Update the situation: decribe your action after checking and the result you obtain (successful or not).
+
+6. Estimate how serious it is and give some advices/experiences in your process for further relevant issue.
+
+7. When the report is ready, please send it to manager directly and take the confirmation. Then contact to our company/customer and stake holder about this.
+
+8. Save this report in our database or the folder to store.
+
+*******************************************************
+
+** Thanks for reading and hope everything is going well. Do not hesitate to contact DevOps manager to share your situation!
+
+** Have a great day!
